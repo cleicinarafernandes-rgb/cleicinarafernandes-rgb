@@ -1,99 +1,100 @@
-# 👩🏻‍💻 Cleicinara Fernandes
+<div align="center">
 
-**`Estudante de Ciência da Computação`**
+  <br>
 
-Me chamo Cleicinara Neves Braga Fernandes, tenho 20 anos e sou natural de Massapê, no Ceará, mas atualmente moro em Itapipoca. Concluí o ensino médio na **EEEP Rita Aguiar Barbosa**, onde também fiz o curso técnico em **Redes de Computadores**. Atualmente, estou cursando **Ciência da Computação na Universidade Federal do Ceará (UFC) – Campus Quixadá**.
+  <h1>👩🏻‍💻 Olá, eu sou a Cleicinara!</h1>
 
-Sou apaixonada por tecnologia e estou sempre buscando aprender coisas novas, desenvolver minhas habilidades e colocar em prática os conhecimentos adquiridos durante minha formação. Aqui no GitHub, compartilho um pouco da minha jornada acadêmica, meus projetos e experiências na área de tecnologia.
+  <p>
+    <strong>Estudante de Ciência da Computação • Curiosa por tecnologia • Sempre aprendendo 💗</strong>
+  </p>
 
----
+  <p>
+    <a href="https://github.com/cleicinarafernandes-rgb">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/Cleicinara Fernandes/">
+      <img src="https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
- align="left" 
- alt="Python"
- title="Python" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="C"
- title="C" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="HTML"
- title="HTML" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="CSS"
- title="CSS" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="Git"
- title="Git" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="GitHub"
- title="GitHub" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📚 Atualmente estudando
-
-* 💻 Programação e desenvolvimento de software
-* 🧠 Algoritmos e estruturas de dados
-* 🌐 Desenvolvimento Web
-* 🖥️ Sistemas e redes de computadores
-* 📊 Banco de dados
-* 🚀 Desenvolvimento de projetos acadêmicos
+</div>
 
 ---
 
-### 📊 Estatísticas
+## 🌷 Sobre mim
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+Me chamo **Cleicinara Neves Braga Fernandes**, tenho 20 anos, sou natural de **Massapê-CE**, mas atualmente moro em **Itapipoca-CE**.
 
-<img 
- align="left" 
- alt="GitHub Stats" 
- height="180" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-/>
+Minha história com a tecnologia começou durante o ensino médio, quando cursei **Técnico em Redes de Computadores na EEEP Rita Aguiar Barbosa**.
 
-</p>
+Atualmente, estou cursando **Ciência da Computação na Universidade Federal do Ceará (UFC) — Campus Quixadá**. 🎓💻
+
+Ainda estou descobrindo qual caminho quero seguir dentro da tecnologia, então estou aproveitando essa fase para conhecer diferentes áreas, experimentar novas tecnologias e, principalmente, aprender.
+
+Aqui no meu GitHub você vai encontrar um pouco dessa jornada: **projetos da faculdade, estudos, experimentos, trabalhos e algumas ideias que resolvi tirar do papel.** 🌱
+
+>💗 “Descobrindo a computação do meu jeito, um código de cada vez.”
+
+---
+
+## 💻 Tecnologias
+
+<div align="center">
+
+### 🧠 Linguagens
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### 🌐 Web
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### 🛠️ Ferramentas
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+<br>
+
+> 🌱 **Minha stack está sempre mudando conforme vou aprendendo coisas novas.**
+
+---
+
+## 📚 O que estou estudando
+
+<div align="center">
+
+| 💻 Área | 🌱 Aprendizado |
+| :--- | :--- |
+| 🧠 Programação | Algoritmos e lógica |
+| 💻 Desenvolvimento | Construção de aplicações |
+| 🌐 Web | HTML, CSS e JavaScript |
+| 🗄️ Dados | Banco de dados |
+| 🌐 Redes | Redes de computadores |
+| 🐧 Sistemas | Sistemas operacionais |
+| 🔧 Ferramentas | Git e GitHub |
+
+</div>
+
+---
+
+## 🔎 Áreas que despertam minha curiosidade
+
+Ainda não escolhi uma área específica para seguir, então estou aberta a explorar diferentes possibilidades.
+
+```text
+💻 Desenvolvimento de Software
+🌐 Desenvolvimento Web
+🤖 Inteligência Artificial
+📊 Ciência de Dados
+🔐 Segurança da Informação
+🌐 Redes e Infraestrutura
+🧠 Algoritmos e Computação
